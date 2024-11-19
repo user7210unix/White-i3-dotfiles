@@ -43,9 +43,7 @@
 - **$mod+r** – Run rofi  
 - **$mod+e** – Open file manager (PCManFM)  
 - **$mod+c** – Launch Visual Studio Code (Codium)  
-- **$mod+Escape** – Lock screen (i3lock)  
+- **$mod+Escape** – Lock screen (i3lock)
 
-### ⚙️ **Miscellaneous**
-
-- **$mod+Shift+c** – Reload i3 configuration  
-- **$mod+Shift+e** – Exit i3 session  
+### ⚙️ **Packages**
+- **rofi picom kitty fish i3 feh**
