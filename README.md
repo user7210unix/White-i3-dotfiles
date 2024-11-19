@@ -28,7 +28,7 @@
     <p>Optimized for performance and minimal resource usage. On average, my setup consumes between <strong>250 MB and 400 MB of RAM</strong>, depending on the installed packages and background services. This lightweight configuration maximizes system resources for essential tasks and keeps everything running smoothly.</p>
   </div>
   <div style="flex: 1;">
-    <img src="showcase/whitei3.png" alt="Memory Usage Graph" width="600">
+    <img src="showcase/Whitei3.png" alt="Memory Usage Graph" width="600">
   </div>
 </div>
 
@@ -36,7 +36,7 @@
 ## Wallpapers
   </div>
   <div style="flex: 1;">
-    <img src="wallpaper/wallpaper.png" alt="Memory Usage Graph" width="900">
+    <img src="wallpaper/wallpaper.jpg" alt="Memory Usage Graph" width="900">
   </div>
 </div>
 
