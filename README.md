@@ -33,7 +33,7 @@
 </div>
 
 
-## Wallpapers
+## Wallpaper
   </div>
   <div style="flex: 1;">
     <img src="wallpaper/wallpaper.jpg" alt="Memory Usage Graph" width="900">
